@@ -1,0 +1,106 @@
+text,intent,lang
+I want to cancel my order,cancel_order,en
+Cancel my order,cancel_order,en
+Please cancel it,cancel_order,en
+I don't want this order,cancel_order,en
+Abort the order,cancel_order,en
+मुझे अपना ऑर्डर रद्द करना है,cancel_order,hi
+ऑर्डर रद्द करो,cancel_order,hi
+इसे रद्द कर दो,cancel_order,hi
+मैं ऑर्डर नहीं चाहता,cancel_order,hi
+ऑर्डर कैंसिल करें,cancel_order,hi
+Quiero cancelar mi pedido,cancel_order,es
+Cancela mi pedido,cancel_order,es
+"Por favor, cancela esto",cancel_order,es
+No quiero este pedido,cancel_order,es
+Anula el pedido,cancel_order,es
+I want to confirm my order,confirm_order,en
+Confirm the order,confirm_order,en
+Please confirm it,confirm_order,en
+Confirm it now,confirm_order,en
+"Yes, place the order",confirm_order,en
+मुझे अपना ऑर्डर कन्फर्म करना है,confirm_order,hi
+ऑर्डर कन्फर्म करो,confirm_order,hi
+इसे कन्फर्म कर दो,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+ऑर्डर पक्का करो,confirm_order,hi
+Quiero confirmar mi pedido,confirm_order,es
+Confirma el pedido,confirm_order,es
+"Por favor, confirma esto",confirm_order,es
+"Sí, haz el pedido",confirm_order,es
+Confírmalo,confirm_order,es
+What's the status of my order?,order_status,en
+Where is my order?,order_status,en
+Is my order shipped?,order_status,en
+Track my order,order_status,en
+Has it been delivered?,order_status,en
+मेरा ऑर्डर कहाँ है?,order_status,hi
+मेरे ऑर्डर की स्थिति क्या है?,order_status,hi
+क्या मेरा ऑर्डर भेजा गया है?,order_status,hi
+ऑर्डर ट्रैक करें,order_status,hi
+क्या ऑर्डर आ गया?,order_status,hi
+¿Dónde está mi pedido?,order_status,es
+¿Cuál es el estado de mi pedido?,order_status,es
+¿Mi pedido fue enviado?,order_status,es
+Rastrear mi pedido,order_status,es
+¿Ya llegó mi pedido?,order_status,es
+Change my address,change_address,en
+Update my delivery address,change_address,en
+I want to edit my address,change_address,en
+Modify address,change_address,en
+Delivery address change,change_address,en
+मेरा पता बदल दो,change_address,hi
+डिलीवरी का पता बदलें,change_address,hi
+मुझे पता अपडेट करना है,change_address,hi
+पता संपादित करें,change_address,hi
+नया पता डालो,change_address,hi
+Cambiar mi dirección,change_address,es
+Actualizar la dirección,change_address,es
+Quiero cambiar mi dirección,change_address,es
+Editar dirección,change_address,es
+Modificar dirección,change_address,es
+I want to talk to support,contact_advisor,en
+Contact customer care,contact_advisor,en
+Call me please,contact_advisor,en
+Need help,contact_advisor,en
+Talk to agent,contact_advisor,en
+मुझे ग्राहक सेवा से बात करनी है,contact_advisor,hi
+कस्टमर केयर से बात कराओ,contact_advisor,hi
+मुझे कॉल करें,contact_advisor,hi
+मदद चाहिए,contact_advisor,hi
+एजेंट से बात करनी है,contact_advisor,hi
+Quiero hablar con atención al cliente,contact_advisor,es
+Contactar soporte,contact_advisor,es
+Llámame por favor,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Hablar con un agente,contact_advisor,es
+Show me the products,get_list_of_products,en
+List all items,get_list_of_products,en
+I want to see what's available,get_list_of_products,en
+Display items,get_list_of_products,en
+Available products please,get_list_of_products,en
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+सभी आइटम सूचीबद्ध करें,get_list_of_products,hi
+क्या-क्या उपलब्ध है?,get_list_of_products,hi
+आइटम दिखाओ,get_list_of_products,hi
+उपलब्ध उत्पाद बताओ,get_list_of_products,hi
+Muéstrame los productos,get_list_of_products,es
+Lista todos los artículos,get_list_of_products,es
+Quiero ver lo que hay disponible,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+Productos disponibles,get_list_of_products,es
+How's the weather?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+Who are you?,not_ecommerce,en
+Play a song,not_ecommerce,en
+What's your name?,not_ecommerce,en
+मौसम कैसा है?,not_ecommerce,hi
+कोई जोक सुनाओ,not_ecommerce,hi
+तुम कौन हो?,not_ecommerce,hi
+गाना चलाओ,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+¿Cómo está el clima?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+¿Quién eres?,not_ecommerce,es
+Pon una canción,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
